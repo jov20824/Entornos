@@ -8,6 +8,7 @@ public class prueba1 {
 		System.out.println("Hola mundo GIT. Viva Linus Torwald");
 		System.out.println("Mario callate ya joder");
 		System.out.println("Un genio el Rallo");
+		System.out.println("Hola Juanjo :)");
 	}
 
 }
