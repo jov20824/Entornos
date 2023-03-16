@@ -1,5 +1,9 @@
 package clases;
-
+/**
+ * @class Esta clase tiene 4 métodos para realizar operaciones con 2 parámetros.
+ * @author Jandro
+ *
+ */
 public class Operaciones {
 
 	/**
